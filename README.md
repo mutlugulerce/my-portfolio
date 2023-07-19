@@ -31,7 +31,7 @@ This is a simple portfolio website built using React and React Router. It showca
 
 **How to Run**
 
-Directly go to : https://mutlugulerce/my-portfolio
+Directly go to : https://github.com/mutlugulerce/my-portfolio
 
 or
 
