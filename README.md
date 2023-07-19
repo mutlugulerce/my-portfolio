@@ -31,7 +31,7 @@ This is a simple portfolio website built using React and React Router. It showca
 
 **How to Run**
 
-Directly go to : https://eren-eroglu.github.io/personal-website/ 
+Directly go to : https://mutlugulerce/my-portfolio
 
 or
 
@@ -53,4 +53,3 @@ Add animations and effects to make the website more engaging
 
 Author
 
-**This website was created by Eren Eroğlu. You can contact me via email at ereneroglu.dev@gmail.com or through the social media accounts on the website.**
